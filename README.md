@@ -3,8 +3,8 @@ This is a starter kit to quick start a React application with WebPack, Yarn, Bab
 
     To start the project
 
-yarn install
-yarn run dev
+# yarn install
+# yarn run dev
 
     Handy tools for Styling and Animations
 
