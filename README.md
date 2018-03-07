@@ -11,11 +11,11 @@ Project opens in http://localhost:8080/
 
 Handy tools for Styling and Animations
 
-Reactstrap 
-https://reactstrap.github.io/components/alerts/
+        Reactstrap 
+        https://reactstrap.github.io/components/alerts/
 
-GSAP 
-https://greensock.com/docs/
+        GSAP 
+        https://greensock.com/docs/
 
-Styled Components 
-https://www.styled-components.com/docs/basics
+        Styled Components 
+        https://www.styled-components.com/docs/basics
