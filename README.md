@@ -7,7 +7,9 @@ To start the project
 
         yarn run dev
 
-Project opens in http://localhost:8080/
+Project opens in 
+
+        http://localhost:8080/
 
 Handy tools for Styling and Animations
 
